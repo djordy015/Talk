@@ -57,7 +57,7 @@ Talk is a very simple GUI text communication software written on Python & Tcl/Tk
 9. Done.
 
 ## License
-CC0 1.0 Universal
+CC0 1.0 Universal.
 
 ## EULA (End User License Agreement)
 By using this software, you agree to the following statement:
