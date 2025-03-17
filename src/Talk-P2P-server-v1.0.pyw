@@ -131,6 +131,11 @@ express Statement of Purpose.
     this CC0 or use of the Work.
 """
 
+EULA = """Talk's End User License Agreement
+The author([g1thubhack3r](https://github.com/g1thubhack3r)) isn't responsible for anything this software([Talk](https://github.com/g1thubhack3r/Talk)) caused.
+"""
+
+
 class SocketServerApp:
     def __init__(self):
         self.root = tk.Tk()
@@ -170,6 +175,7 @@ class SocketServerApp:
         menubar = tk.Menu(self.waiting_win)
         # help_menu = tk.Menu(menubar, tearoff=0)
         menubar.add_command(label="About", command=self.show_about)
+        menubar.add_command(label="EULA", command=(lambda:messagebox.showinfo("Talk's End User License Agreement", EULA)))
         # menubar.add_cascade(label="Help", menu=help_menu)
         self.waiting_win.config(menu=menubar)
         
