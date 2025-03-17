@@ -7,6 +7,14 @@ Talk is a very simple GUI text communication software.
 1. Download the suitable version for your computer.
 2. Run it.
 
+## TODO
+- [x] Finish P2P server
+- [] Finish P2P client
+- [] Finish Group chat server
+- [] Finish Group chat client
+- [] Add SSL support
+- [] Add i18n support
+
 ## How to build it (Windows)
 1. [Download and install Python](https://www.python.org/downloads/windows/).
 > [!IMPORTANT]
