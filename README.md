@@ -1,5 +1,5 @@
 # Talk
-Talk is a very simple GUI text communication software written on Python and Tcl/Tk.
+Talk is a very simple GUI text communication software written on Python & Tcl/Tk.
 > [!WARNING]
 > Messages are **not encrypted** and can be **easily tampered**.
 
